@@ -32,4 +32,4 @@ git+https://github.com/facebookresearch/segment-anything.git
 segment-geospatial
 git+https://github.com/Rusteam/segmentation_models.pytorch.git@sam
 kornia[x]
-
+einops
